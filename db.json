@@ -1,0 +1,114 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es el color del cielo en un día despejado?",
+      "opciones": {
+        "a": "Rojo",
+        "b": "Verde",
+        "c": "Amarillo",
+        "d": "Azul"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Cuánto es 2 + 2?",
+      "opciones": {
+        "a": "3",
+        "b": "5",
+        "c": "22",
+        "d": "4"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+      "opciones": {
+        "a": "Pablo Neruda",
+        "b": "Mario Vargas Llosa",
+        "c": "Isabel Allende",
+        "d": "Gabriel García Márquez"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+      "opciones": {
+        "a": "Marte",
+        "b": "Venus",
+        "c": "Mercurio",
+        "d": "Júpiter"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Qué país tiene la forma de una bota?",
+      "opciones": {
+        "a": "España",
+        "b": "Grecia",
+        "c": "Francia",
+        "d": "Italia"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Cuál es el animal terrestre más rápido?",
+      "opciones": {
+        "a": "León",
+        "b": "Caballo",
+        "c": "Tigre",
+        "d": "Guepardo"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 7,
+      "pregunta": "¿Qué elemento químico tiene el símbolo 'O'?",
+      "opciones": {
+        "a": "Oro",
+        "b": "Oxígeno",
+        "c": "Osmio",
+        "d": "Plata"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 8,
+      "pregunta": "¿Cuál es la capital de Australia?",
+      "opciones": {
+        "a": "Sydney",
+        "b": "Melbourne",
+        "c": "Brisbane",
+        "d": "Canberra"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Quién pintó 'La última cena'?",
+      "opciones": {
+        "a": "Vincent van Gogh",
+        "b": "Miguel Ángel",
+        "c": "Pablo Picasso",
+        "d": "Leonardo da Vinci"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 10,
+      "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+      "opciones": {
+        "a": "1935",
+        "b": "1941",
+        "c": "1929",
+        "d": "1939"
+      },
+      "respuesta_correcta": "d"
+    }
+  ]
+}
